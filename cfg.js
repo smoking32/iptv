@@ -11,7 +11,7 @@ window.CFG = {
      name: 'otrositv' },
 
     // 2) Tu lista de m3u4u. 'lista.js' y 'guia.js' los crea  relevo\ActualizarLista.bat  (ver LEEME.txt)
-    { link: 'lista.js',
+    { link: 'lista.m3u',
       name: 'Canales m3u4u',
       live: true,
       epg:  'guia.js' }
