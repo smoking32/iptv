@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+	<widgetname itemtype="string">NETFLIX</widgetname>
+	<description itemtype="string">NETFLIX</description>
+	<ver itemtype="string">1.000</ver>
+	<mgrver itemtype="string"></mgrver>
+	<cpname itemtype="string"></cpname>
+	<login>n</login>
+	<cplogo itemtype="string"></cplogo>
+	<cpauthjs itemtype="string"></cpauthjs>
+	<ThumbIcon itemtype="string">icon/icon_106_87.png</ThumbIcon>
+	<BigThumbIcon itemtype="string">icon/icon_115_95.png</BigThumbIcon>
+	<ListIcon itemtype="string">icon/icon_85_70.png</ListIcon>
+	<BigListIcon itemtype="string">icon/icon_95_78.png</BigListIcon>
+	<width itemtype="string">960</width>
+	<height itemtype="string">540</height>
+	<mouse>y</mouse>
+	<fullwidget itemtype="boolean">y</fullwidget>
+	<author itemtype="group">
+		<name itemtype="string">yo</name>
+		<email itemtype="string">yo@example.com</email>
+		<link itemtype="string">http://example.com</link>
+		<organization itemtype="string">yo</organization>
+	</author>
+	<category itemtype="string"></category>
+	<autoUpdate itemtype="boolean">y</autoUpdate>
+	<type itemtype="string">user</type>
+	<srcctl itemtype="boolean">y</srcctl>
+	<ticker itemtype="boolean">n</ticker>
+	<childlock itemtype="boolean">n</childlock>
+	<videomute itemtype="boolean">n</videomute>
+	<audiomute itemtype="boolean">y</audiomute>
+	<flashplayer itemtype="boolean">y</flashplayer>
+	<dcont itemtype="boolean">y</dcont>
+</widget>
